@@ -1,0 +1,136 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "email": "",
+      "address": "",
+      "qualification": "",
+      "experience": "",
+      "id": 2
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "email": "",
+      "address": "",
+      "qualification": "",
+      "experience": "",
+      "id": 3
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "email": "",
+      "address": "",
+      "qualification": "",
+      "experience": "",
+      "id": 4
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "email": "",
+      "address": "",
+      "qualification": "",
+      "experience": "",
+      "id": 5
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "email": "",
+      "address": "",
+      "qualification": "",
+      "experience": "",
+      "id": 6
+    },
+    {
+      "firstname": null,
+      "lastname": null,
+      "email": null,
+      "address": null,
+      "qualification": null,
+      "experience": null,
+      "id": 7
+    },
+    {
+      "firstname": null,
+      "lastname": null,
+      "email": null,
+      "address": null,
+      "qualification": null,
+      "experience": null,
+      "id": 8
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "email": "",
+      "address": "",
+      "qualification": "",
+      "experience": "",
+      "id": 9
+    },
+    {
+      "firstname": null,
+      "lastname": null,
+      "email": null,
+      "address": null,
+      "qualification": null,
+      "experience": null,
+      "id": 10
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "email": "",
+      "address": "",
+      "qualification": "",
+      "experience": "",
+      "id": 11
+    },
+    {
+      "firstname": null,
+      "lastname": null,
+      "email": null,
+      "address": null,
+      "qualification": null,
+      "experience": null,
+      "id": 12
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "email": "",
+      "address": "",
+      "qualification": "",
+      "experience": "",
+      "id": 13
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "email": "",
+      "address": "",
+      "qualification": "",
+      "experience": "",
+      "id": 14
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
